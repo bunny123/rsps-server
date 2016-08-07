@@ -1,4 +1,4 @@
-package server.core.tick;
+package server.event;
 
 import java.util.LinkedList;
 import java.util.List;

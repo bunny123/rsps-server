@@ -1,4 +1,4 @@
-package server.core.tick;
+package server.event;
 
 /**
  * Represents a task that is executed in the future, once or periodically.
