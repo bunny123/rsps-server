@@ -4,12 +4,12 @@ character-password = luisisgay
 
 [CHARACTER]
 character-height = 0
-character-posx = 3088
-character-posy = 3491
+character-posx = 2674
+character-posy = 3715
 character-rights = 3
 crystal-bow-shots = 0
 MoneyOrb = 0
-skull-timer = 0
+skull-timer = -1
 sumspec-amount = 60.0
 specTimer =0
 [AGILITY]
@@ -37,13 +37,13 @@ isDonator = 0
 slayerTask = 0
 taskAmount = 0
 magePoints = 0
-autoRet = 0
+autoRet = 1
 barrowskillcount = 0
 flagged = false
 displayName = chase
 wave = 0
 gwkc = 0
-fightMode = 0
+fightMode = 3
 lastsummon = 0
 summoningnpcid = 0
 void = 0	0	0	0	0
@@ -53,20 +53,20 @@ QuickCurses = false	false	false	false	false	false	false	false	false	false	false	
 QuickPrayers = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
 
 [EQUIPMENT]
-character-equip = 0	-1	1	
-character-equip = 1	-1	1	
+character-equip = 0	1017	1	
+character-equip = 1	6568	1	
 character-equip = 2	1731	1	
-character-equip = 3	1381	1	
-character-equip = 4	-1	1	
-character-equip = 5	-1	1	
+character-equip = 3	841	1	
+character-equip = 4	6107	1	
+character-equip = 5	-1	0	
 character-equip = 6	-1	0	
-character-equip = 7	-1	1	
+character-equip = 7	6108	1	
 character-equip = 8	-1	0	
-character-equip = 9	-1	1	
-character-equip = 10	-1	1	
+character-equip = 9	7458	1	
+character-equip = 10	3105	1	
 character-equip = 11	-1	0	
-character-equip = 12	-1	1	
-character-equip = 13	-1	0	
+character-equip = 12	2550	1	
+character-equip = 13	882	277	
 
 [LOOK]
 character-look = 0	0
@@ -85,10 +85,10 @@ character-look = 12	0
 
 [SKILLS]
 character-skill = 0	1	0
-character-skill = 1	1	0
+character-skill = 1	28	11630
 character-skill = 2	1	0
-character-skill = 3	10	1300
-character-skill = 4	1	0
+character-skill = 3	18	6258
+character-skill = 4	12	1630
 character-skill = 5	1	0
 character-skill = 6	1	0
 character-skill = 7	1	0
@@ -101,7 +101,7 @@ character-skill = 13	1	0
 character-skill = 14	1	0
 character-skill = 15	1	0
 character-skill = 16	1	0
-character-skill = 17	19	4000
+character-skill = 17	24	7520
 character-skill = 18	1	0
 character-skill = 19	1	0
 character-skill = 20	1	0
@@ -111,17 +111,33 @@ character-skill = 23	1	0
 character-skill = 24	1	0
 
 [ITEMS]
-character-item = 0	996	1506997
-character-item = 2	555	200
-character-item = 3	556	10000
-character-item = 4	557	200
-character-item = 5	559	600
-character-item = 6	561	1000
-character-item = 7	566	1000
-character-item = 9	1324	1
-character-item = 10	842	1
-character-item = 11	883	500
-character-item = 12	393	1000
+character-item = 0	996	59164104
+character-item = 1	392	1
+character-item = 2	393	449
+character-item = 3	392	1
+character-item = 4	392	1
+character-item = 5	392	1
+character-item = 6	1334	1
+character-item = 7	1382	1
+character-item = 8	392	1
+character-item = 9	392	1
+character-item = 10	392	1
+character-item = 11	392	1
+character-item = 12	392	1
+character-item = 13	392	1
+character-item = 14	862	1
+character-item = 15	10500	1
+character-item = 16	893	50
+character-item = 17	11213	10
+character-item = 18	2498	1
+character-item = 19	2492	1
+character-item = 20	2504	1
+character-item = 21	1100	1
+character-item = 22	1136	1
+character-item = 23	1066	1
+character-item = 24	1324	1
+character-item = 25	885	48274
+character-item = 26	3843	1
 
 [BANK]
 
